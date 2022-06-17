@@ -29,6 +29,8 @@ namespace WindowsFormsApp1
         Thread _Thread;
         bool IsAutomaticRunning = false;
 
+
+
         public static byte[] Key = { 124, 222, 121, 82, 172, 21, 185, 111, 228, 182, 72, 132, 233, 123, 80, 12 };
         public static byte[] IV = { 172, 111, 13, 42, 244, 102, 81, 211 };
 
