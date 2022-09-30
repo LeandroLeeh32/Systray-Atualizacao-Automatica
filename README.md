@@ -12,7 +12,8 @@ A instalção funciona de forma QUIET acontece sem a necessidade ou interação 
 ![image](https://user-images.githubusercontent.com/99044436/193330441-7bbe6e8d-4408-41f3-84ec-0d14ce8cac18.png)
 
 
-Podendo ser configurado de forma "Automatic" onde verifica a cada X tempo se existe um novo serviço a ser instalado
+Podendo ser configurado de forma "Automatic" onde verifica a cada X tempo se existe um novo serviço a ser instalado ou 
+por etapas individuais conforme imagem acima.
 
 
 
