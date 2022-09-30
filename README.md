@@ -1,29 +1,18 @@
-# README #
+# Atualização automática
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Após disponibilizado um arquivo de serviço Windows na rede o instalador automatico ira fazer:
 
-### What is this repository for? ###
++ Download do arquivo
++ STOP o serviço desatualizado
++ instalar o serviço atualizado
++ START o serviço ja atualizado com a ulyima versão
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+A instalção funciona de forma QUIET acontece sem a necessidade ou interação do usuário
 
-### How do I get set up? ###
+![image](https://user-images.githubusercontent.com/99044436/193330441-7bbe6e8d-4408-41f3-84ec-0d14ce8cac18.png)
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
+Podendo ser configurado de forma "Automatic" onde verifica a cada X tempo se existe um novo serviço a ser instalado
 
-* Writing tests
-* Code review
-* Other guidelines
 
-### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
